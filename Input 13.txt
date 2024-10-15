@@ -1,0 +1,10 @@
+Przykładowy plik wydarzenia.txt:
+01.01 Nowy Rok
+02.14 Walentynki
+03.08 Dzień Kobiet
+05.26 Dzień Matki
+06.23 Dzien Ojca
+11.01 Wszytstkich Świętych
+11.11 Święto Niepodległości
+12.24 Wigilia
+12.31 Sylwester
